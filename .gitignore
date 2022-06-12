@@ -1,3 +1,4 @@
 .docker/workspace
 .docker/postgresql
 .docker/conf/configs
+ddev.tar.gz
