@@ -1,4 +1,5 @@
 .docker/workspace
-.docker/postgresql
+.docker/postgresql/data
+.docker/postgresql/BACKUPS/DATA
 .docker/conf/configs
 ddev.tar.gz
